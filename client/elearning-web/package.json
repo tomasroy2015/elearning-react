@@ -16,15 +16,16 @@
     "react-alert-template-basic": "^1.0.0",
     "react-bootstrap": "^0.32.1",
     "react-bootstrap-validation": "^0.1.11",
+    "react-doc": "^1.2.6",
     "react-dom": "^16.4.0",
     "react-fontawesome": "^1.6.1",
-    "react-router": "^4.2.0",
+    "react-router": "^4.3.1",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "1.1.4",
     "react-video-play": "^2.0.3",
     "redux": "^4.0.0",
     "resolve-url-loader": "^2.3.0",
-    "video-react": "^0.10.9"
+    "video-react": "^0.10.9",
+    "yarn": "^1.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,6 +35,11 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0"
-  }
+    "babel-preset-env": "^1.7.0",
+    "popper.js": "^1.14.3",
+    "ws": "3.3.2",
+    "yarn": "^1.7.0"
+  },
+  "main": "index.js",
+  "license": "MIT"
 }
